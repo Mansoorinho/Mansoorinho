@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mansoorinho
 - 👀 I’m interested in Data Science, Machine learning and Deep learning
 - 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on Deep Learning research 
+- 💞️ I’m looking to collaborate on Computer Vision research 
 - 📫 How to reach me mansoor.nabawi@gmail.com
 
 <!---
