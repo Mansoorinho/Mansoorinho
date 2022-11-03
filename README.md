@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mansoorinho
+- 👋 Hi, I’m Mansoor
 - 👀 I’m interested in Data Science, Machine learning and Deep learning
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on Computer Vision research 
