@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mansoor
-- 👀 I’m interested in Data Science, Machine learning and Deep learning
-- 🌱 I’m currently learning Vision Transformers
-- 💞️ I’m looking to collaborate on Computer Vision research 
+- 👀 I’m interested in Machine learning and Deep learning
+- 🌱 I’m currently writing my master thesis on 2.5D Vehicle Detection in 2D plane.
+- 💞️ I’m looking to collaborate on Deep learning research specially Computer Vision. 
 - 📫 How to reach me mansoor.nabawi@gmail.com
 
 <!---
